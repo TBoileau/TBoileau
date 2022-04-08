@@ -91,7 +91,9 @@ Réalisations :
 - Bonnes pratiques
 - Organisation de travail
 - Développements
---------------------------------------
+
+_________________________________________
+
 **Key Privilège - Développeur & Streamer** - 02/2021 à 03/2021 - Freelance
 
 Key Privilège est un outil de gestion des adhérents et clients du groupement auto Alternative Autoparts et d’animation des commerciaux. Key Privilège est un projet historique, cependant le site était vieillissant et a demandé une refonte complète.
