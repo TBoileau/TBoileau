@@ -26,7 +26,7 @@ Lors de la crise sanitaire apparue en 2020, je me suis lancé dans le stream sur
 
 | Back-end                                         	| Front-end                                            	| Outils                                                	| Pratiques                                                                      	|
 |--------------------------------------------------	|------------------------------------------------------	|-------------------------------------------------------	|--------------------------------------------------------------------------------	|
-| - **PHP**<br>- **Symfony**<br>- REST<br>- Python 	| - HTML/CSS<br>- Javascript<br>- Angular<br>- ReactJS 	| - Git/Github/Gitlab<br>- Docker<br>- MySQL<br>- Redis 	| - Clean code<br>- A.TDD/BDD<br>- Clean Architecture<br>- CI/CD<br>- UML/Merise 	|
+| - **PHP**<br>- **Symfony**<br>- REST<br>- Python 	| - HTML/CSS<br>- Javascript<br>- Angular<br>- ReactJS 	| - Git/Github/Gitlab<br>- Docker<br>- MySQL<br>- Redis 	| - Clean code<br>- A.TDD/BDD<br>- CI/CD<br>- UML/Merise 	|
 
 ### Langues
 * Français : Natif
