@@ -362,7 +362,7 @@ Réalisations :
 * **2018** : VAE - BAC+5 Expert en Ingénieurie informatique
 
 ## Mon profil vous intéresse ?
-En effet, je recherche un entreprise pour fin 2022, début 2023. Pour quelles raisons ? Pour un peu plus de stabilité, mais surtout pour adhérer à un nouveau projet commun.
+En effet, je suis toujours à la recherche d'une nouvelle aventure. Pour quelles raisons ? Pour un peu plus de stabilité, mais surtout pour adhérer à un nouveau projet commun.
 
 Si mon profil vous intéresse, je vous invite, avant même de me contacter, à lire mes critères :
 - Poste en tant que développeur Symfony avec beaucoup d'autonomie ou de Lead Developer Symfony.
