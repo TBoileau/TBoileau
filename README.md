@@ -367,6 +367,6 @@ En effet, je suis toujours à la recherche d'une nouvelle aventure. Pour quelles
 Si mon profil vous intéresse, je vous invite, avant même de me contacter, à lire mes critères :
 - Poste en tant que développeur Symfony avec beaucoup d'autonomie ou de Lead Developer Symfony.
 - Possibilité de travailler sur place, mais à ma convenance.
-- Concernant les prétentions salariales, 65k€ brut.
+- Concernant les prétentions salariales, 70k€ brut.
 - J'ai une grande préférence pour les sociétés à taille humaine avec un management horizontale.
 - Avoir des horaires aménagés afin de continuer mon activité de freelance en parallèle (Mentorat sur OpenClassrooms, ainsi que le Stream sur Twitch).
