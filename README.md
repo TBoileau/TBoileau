@@ -3,20 +3,20 @@
 ## 🚀 About Me
 I'm a **Symfony** developer since 2010 ! I like to share what I do with my community on [Twitch](https://twitch.tv/toham).
 * 🏡️ I'm currently working as a freelancer !
-* 📬️ How to reach me : [@boileau_thomas](https://twitter.com/boileau_thomas)
+* 📬️ How to reach me : [@toham_tech](https://twitter.com/toham_tech)
 * 🏢️ I am open to proposals for missions or jobs !
 
 ## 👉️ Connect with me
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-boileau-symfony/)
 
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/boileau_thomas)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/toham_tech)
 
-[![youtube](https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/ThomasBoileau)
+[![youtube](https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@toham)
 
-[![twitch](https://img.shields.io/badge/twitch-6441a5?style=for-the-badge&logo=twitch&logoColor=white)](https://twitter.tv/toham)
+[![twitch](https://img.shields.io/badge/twitch-6441a5?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/toham)
 
-[![discord](https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/toham)
+[![discord](https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/3QkBNHr)
 
 ## 🖥️ My favorite stack
 
