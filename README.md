@@ -43,8 +43,4 @@ Find the list of technologies I like to use in my daily life.
 
 ## My contributions and active projects
 
-[![toham.dev](https://github-readme-stats.vercel.app/api/pin/?username=TBoileau&repo=toham.dev&show_owner=true)](https://github.com/TBoileau/toham.dev)
-
-[![Il était une fois un dev](https://github-readme-stats.vercel.app/api/pin/?username=incentive-factory&repo=iletaitunefoisundev&show_owner=true)](https://github.com/incentive-factory/iletaitunefoisundev)
-
 [![Symfony](https://github-readme-stats.vercel.app/api/pin/?username=symfony&repo=symfony&show_owner=true)](https://github.com/symfony/symfony)
