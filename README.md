@@ -2,9 +2,9 @@
 
 ## 🚀 About Me
 I'm a **Symfony** developer since 2010 ! I like to share what I do with my community on [Twitch](https://twitch.tv/toham).
-* 🏡️ I'm currently working as a freelancer !
+* 🏡️ I'm currently working at [@yousign](https://github.com/Yousign) !
 * 📬️ How to reach me : [@toham_tech](https://twitter.com/toham_tech)
-* 🏢️ I am open to proposals for missions or jobs !
+* 🏢️ I am not available for missions or jobs !
 
 ## 👉️ Connect with me
 
